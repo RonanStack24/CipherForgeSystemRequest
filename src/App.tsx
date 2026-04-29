@@ -74,7 +74,7 @@ function App() {
       {/* TopNavBar */}
       <nav className="sticky top-0 z-50 flex items-center justify-between px-6 md:px-12 h-20 w-full bg-[#171717]/80 backdrop-blur-xl border-b border-white/5 shadow-[0_8px_32px_rgba(99,102,241,0.05)] font-manrope tracking-tight">
         <div className="text-lg md:text-xl font-bold tracking-tighter text-white flex items-center gap-2">
-          <img alt="CipherForge Logo" className="h-7 md:h-8 w-auto mr-1" src="https://lh3.googleusercontent.com/aida/ADBb0uicfslIfpLZ87OHbttLFwavKtvYapR9AjMmPD4nCrxmh1yQhKW75EglhgZ3Otr4HI-Fao0udAb35_C93t4emWeA7GX1EUjXXiRNwqQgFIQN8t6jAxu8Ipz1lXJc5wXP7OkPciGYX1wKLmwVqdi_n2ppwBik6JnIRc68nN_GlXlf83KomsSVu6CaOXhE-GpVWkdCgl_WCWrsDZ8UTxQedZSdyXSs805cpocxkd6ZcuAKoe128-_T_eJxVuXBQBq1oY68yWZcZItg84U"/>
+          <img alt="CipherForge Logo" className="h-7 md:h-8 w-auto mr-1" src="/logo.png" />
           CipherForge
         </div>
         <div className="hidden lg:flex items-center gap-8">
